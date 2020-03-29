@@ -1,0 +1,563 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hsc_year",
+				"hsc_year_no_sessions"
+			],
+			[
+				"clean_sess",
+				"clean_session_info"
+			],
+			[
+				"all_sess",
+				"all_session_point_history_raw"
+			],
+			[
+				"all_se",
+				"all_session_leader_rating"
+			],
+			[
+				"HC_",
+				"hsc_year_12"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"USER_",
+				"USER_TYPE_STUDENT"
+			],
+			[
+				"err",
+				"error_message"
+			],
+			[
+				"password_",
+				"password_verify"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"final",
+				"final_hsc_support"
+			],
+			[
+				"via",
+				"via_api"
+			],
+			[
+				"class_lo",
+				"class_locations"
+			],
+			[
+				"font-st",
+				"font-style\tproperty"
+			],
+			[
+				"reso",
+				"responseJson\t? "
+			],
+			[
+				"lo",
+				"logMessage"
+			],
+			[
+				"logge",
+				"Logger"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"logged",
+				"logged_in"
+			],
+			[
+				"send_",
+				"send_email"
+			],
+			[
+				"str_re",
+				"str_replace"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/pxmic/Documents/Projects/covid19phunited"
+	],
+	"file_history":
+	[
+		"/E/Work/HSC/hsccoworksonline/application/controllers/common/message/Save.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/common/trainingfeed/Index.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/common/user/Save.php",
+		"/E/Work/HSC/hsccoworksonline/application/models/Constants.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/Cron_remind_credit_and_cq_attempt_expiry.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/common/newsfeed/Index.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/common/user/Detail.php",
+		"/E/Work/HSC/hsccoworksonline/application/models/Newsfeed_challenge_answer_comment.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20200226154400_add_valid_url_extesions_record_to_contants_table.php",
+		"/E/Work/HSC/hsccoworksonline/application/views/student/newsfeed/list.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/student/submission/View.php",
+		"/E/Work/HSC/hsccoworksonline/application/models/Submission_pending_approval.php",
+		"/E/Work/HSC/hsccoworksonline/application/views/admin/hsc_vision/index.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/admin/hsc_vision/Index.php",
+		"/E/Work/HSC/hsccoworksonline/application/core/MY_Model.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20191209084400_add_class_roll_id_to_cfa_and_credit.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20200206144500_add_topic_id_in_submission_table.php",
+		"/E/Work/HSC/hsccoworksonline/application/models/Raffle.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/staff/Index.php",
+		"/E/Work/HSC/hsccoworksonline/application/config/routes.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/common/calendar/Delete.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/student/calendar/Delete.php",
+		"/E/Work/HSC/hsccoworksonline/application/models/Booking_history.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20200227144600_add_delete_log_to_booking_history.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/admin/settings/Save.php",
+		"/E/Work/HSC/hsccoworksonline/application/views/common/timeline_items.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/common/calendar/Schedule_save.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/Cron_auto_hrt_reassignment.php",
+		"/E/Work/HSC/hsccoworksonline/application/models/Booking.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20200213075402_add_virtual_flag_to_session_report_attendance.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/Cron_automated_marking_credit.php",
+		"/E/Work/HSC/hsccoworksonline/application/models/Credit_with_expiry.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/Cron_parent_nps.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/scripts/Init_newsfeed_streak_table.php",
+		"/E/Work/HSC/hsccoworksonline/application/models/Streak_bonus_usage_tracker.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/class_roll/Index.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20200111103500_add_is_hrt_target_flag_to_subject.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20191229051700_create_mp_tracker_table.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20200105113500_create_rate_essay_table.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20200105113400_create_essay_type_table.php",
+		"/E/Work/HSC/hsccoworksonline/application/views/common/user/marker/profile.php",
+		"/E/Work/HSC/hsccoworksonline/application/views/common/user/staff/profile.php",
+		"/E/Work/HSC/hsccoworksonline/application/views/common/user/student/profile.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/Cron_raffle.php",
+		"/E/Work/HSC/hsccoworksonline/application/views/report/student_weekly_activities.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20191220092000_add_sequence_trigger_type.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20191204113100_add_republish_and_duplicate_options_field.php",
+		"/E/Work/HSC/hsccoworksonline/application/views/admin/dashboard.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20191125144200_add_user_sibling.php",
+		"/E/Work/HSC/hsccoworksonline/application/models/Parent_email_history.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/Cron_notify_parent.php",
+		"/E/Work/HSC/hsccoworksonline/application/models/Setting.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/Cron_weekend_session_reminder.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/common/task/Add.php",
+		"/E/Work/HSC/hsccoworksonline/application/views/common/task/add.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/get/Subject_select.php",
+		"/E/Work/HSC/hsccoworksonline/application/views/includes/footer.php",
+		"/E/Work/HSC/hsccoworksonline/application/views/student/pop_up/subject_topics.php",
+		"/E/Work/HSC/hsccoworksonline/application/helpers/timedate_helper.php",
+		"/E/Work/HSC/hsccoworksonline/application/views/includes/aside_student.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/Cron_coach_weekly_points.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20191107081800_add_challenge_question_prizes_table.php",
+		"/E/Work/HSC/hsccoworksonline/application/core/MY_Controller.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20200226113300_add_booking_reminder_flags_to_user_setting.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/student/calendar/Save.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20200205212700_sync_booking_shedule_location_with_coach_location.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20200204104100_add_star_details_for_10_mark_essay.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20200203152200_add_location_to_booking_schedules_location.php",
+		"/E/Work/HSC/hsccoworksonline/application/models/User_weekend_session_limit.php",
+		"/E/Work/HSC/hsccoworksonline/application/composer.phar",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20200131112000_add_bondi_yr11_location.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20191031074900_add_credit_with_expiry_table.php",
+		"/E/Work/HSC/hsccoworksonline/application/vendor/kreait/firebase-php/src/Firebase/RemoteConfig/Version.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20200116095300_add_topic_id_in_submission_table.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/common/task/Save.php",
+		"/E/Work/HSC/hsccoworksonline/application/views/report/session_leader_report.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/Parent_email.php",
+		"/E/Work/HSC/hsccoworksonline/application/libraries/sendemail/SendEmail.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20191115135300_add_oct_2020_bootcamp_dates.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20191114155600_create_sms_table.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20191115113200_reenable_student_basic_package.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20191031075300_changes_to_package_and_credits_table.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20191108213400_reset_session_point_history.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/admin/Index.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20191105060900_add_bootcamp_2020_schedules.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/student/calendar/Index.php",
+		"/E/Work/HSC/hsccoworksonline/version.txt",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20191031075400_add_newsfeed_challenge_question_free_attempt_table.php",
+		"/E/Work/HSC/hsccoworksonline/application/views/includes/header.php",
+		"/E/Work/HSC/hsccoworksonline/application/config/config.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/Cron_weekly_non_attendance_report.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20191013181300_insert_new_student_report_recipient.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20191104170800_add_sequence_trigger_field.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/Cron_weekly_comment_count_report.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20191026093200_create_browsing_student_detail_table.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20191023165700_fix_trainingfeed_image_display_issue.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20191026122500_add_newsfeed_reattempt.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/Verifylogin.php",
+		"/E/Work/HSC/hsccoworksonline/application/models/Final_hsc_support.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/Cron_no_attendance_automated_email.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/common/message/Thread.php",
+		"/E/Work/HSC/hsccoworksonline/application/models/User_thread_message.php",
+		"/E/Work/HSC/hsccoworksonline/application/models/User_to_do.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/admin/timeline/Index.php",
+		"/E/Work/HSC/hsccoworksonline/application/views/marker/work/list.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/marker/work/Return_.php",
+		"/E/Work/HSC/hsccoworksonline/application/config/constants.php",
+		"/E/Work/HSC/hsccoworksonline/application/models/User_notification.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/get/message/Unread.php",
+		"/E/Work/HSC/hsccoworksonline/application/models/Trainingfeed_challenge_answers.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20190919104600_add_trainingfeed_status_is_deleted_index.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20190919184900_fix_trainingfeed_image_display_issue.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/common/newsfeed/Manage.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/Cron_class_roll_attendance.php",
+		"/E/Work/HSC/hsccoworksonline/application/views/common/cron/student_weekly_activities.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20191012144001_add_quote_training_to_streak_detail_type.php",
+		"/E/Work/HSC/hsccoworksonline/application/models/Streak_detail.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/common/user/Index.php",
+		"/E/Work/HSC/hsccoworksonline/application/migrations/20191001195307_drop_template_subject.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/Cron_new_student_enrolment.php",
+		"/E/Work/HSC/hsccoworksonline/application/models/User.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/Email_logs.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/Cron_consolidated_booking_email.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/Cron_mock_exam_reminder.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/admin/newsfeed/Index.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/cache/Delete.php",
+		"/E/Work/HSC/hsccoworksonline/application/controllers/Cron_marker_activity.php",
+		"/E/Work/HSC/hsccoworksonline/application/views/staff/trainingfeed/list.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 111.2,
+		"where_history":
+		[
+			"E:\\Work\\HSC\\hsccoworksonline\\application\\controllers",
+			"<current file>",
+			"E:\\Work\\HSC\\hsccoworksonline\\application\\controllers",
+			"E:\\Work\\HSC\\hsccoworksonline\\application\\",
+			"E:\\Work\\HSC\\hsccoworksonline\\application\\views",
+			"E:\\Work\\HSC\\hsccoworksonline\\application\\controllers",
+			"E:\\Work\\HSC\\hsccoworksonline\\application\\migrations",
+			"E:\\Work\\HSC\\hsccoworksonline\\application\\controllers",
+			"E:\\Work\\HSC\\hsccoworksonline\\application\\",
+			"E:\\Work\\HSC\\hsccoworksonline\\application\\views",
+			"E:\\Work\\HSC\\hsccoworksonline\\application\\controllers",
+			"E:\\Work\\HSC\\hsccoworksonline\\application\\views",
+			"E:\\Work\\HSC\\hsccoworksonline\\application\\controllers",
+			"E:\\Work\\HSC\\hsccoworksonline\\application\\views",
+			"E:\\Work\\HSC\\hsccoworksonline\\application\\controllers",
+			"E:\\Work\\HSC\\hsccoworksonline\\application\\views",
+			"E:\\Work\\HSC\\hsccoworksonline\\application\\",
+			"E:\\Work\\HSC\\hsccoworksonline\\application\\views",
+			"E:\\Work\\HSC\\hsccoworksonline\\application\\",
+			"E:\\Work\\HSC\\hsccoworksonline\\application\\views",
+			"E:\\Work\\HSC\\hsccoworksonline\\application\\controllers",
+			"E:\\Work\\HSC\\hsccoworksonline\\application\\",
+			"E:\\Work\\HSC\\hsccoworksonline\\application\\views",
+			"E:\\Work\\HSC\\hsccoworksonline\\application\\controllers",
+			"E:\\Work\\HSC\\hsccoworksonline\\application\\views"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"label = 'inbox';",
+			"skip_emails",
+			"message_recipients",
+			"recipient_id",
+			"$user_thread_label->save();",
+			"user_thread_label->save",
+			"base_url",
+			"message/save",
+			"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+			"last_viewed",
+			"expired_post_condition",
+			"total_new",
+			"total_",
+			"total",
+			"limit _",
+			"limit ",
+			"$this->$user['id']",
+			"total_newsfeed =",
+			"total_newsfeed",
+			"newsfeeds =",
+			"h8",
+			"return ",
+			"return",
+			"fetch",
+			"get_challenge_answer_comments",
+			"newsfeed_challenge_answer_comment",
+			"loadnewsfeeditems",
+			"VALID_URL_EXTENSIONS",
+			"url_extensions",
+			"url_extensions\t",
+			"url_extensions",
+			"Ask_Question_attachment",
+			"<form id=\"dz\" class=\"dropzone\"",
+			"save_elevation_vision_board_image",
+			"do_upload",
+			"datetime",
+			"session",
+			"session[",
+			"session",
+			"remove_record",
+			"->dele",
+			"/calendar/de",
+			"to_be_deleted_id",
+			"$id",
+			"session",
+			"our booking has been cancelled for you",
+			"$config['upload_path']",
+			"User_weekend_session_limit",
+			"spnPointsLastNthHours",
+			"last_nth_hour_points",
+			"get_upcoming_staff_quarterly_raffle_detail",
+			"s_date",
+			"schedule_sav",
+			"schedule_sa",
+			"web_link",
+			"Class_time",
+			"user_setting",
+			"->save",
+			"valid_on",
+			"year11_position",
+			"get_hsc_year",
+			"$students",
+			"get_hsc_year",
+			"all_students",
+			"get_hsc_year",
+			"year_12",
+			"year12",
+			"Newsfeed_challenge_question_free_attempt",
+			"get_total_banked_attempts",
+			"$this->user",
+			"views/student/subject/topic_list",
+			"$subject_id",
+			"$subject->",
+			"subject-selectpicker-field",
+			"$subject",
+			"admin/st/:num/add",
+			"edit",
+			"date",
+			"status_",
+			"date_create",
+			"$stud_id",
+			"user/save/",
+			"admin/user/save",
+			"package_id",
+			"date_created",
+			"session",
+			"date_created",
+			"joined",
+			"subject_topics",
+			"sendEmail->",
+			"sendEmail",
+			"email",
+			"parent_email",
+			"parent-email",
+			"get_year_12",
+			"students",
+			"email",
+			"admin/subject/save",
+			"$subject_id",
+			"$topic_id",
+			"$subject_topic_id",
+			"$topic_id",
+			"window.location.replace(\"/logout\");",
+			"STREAK_DETAIL_TYPE_QUOTE_TRAINING",
+			"POINT_TYPE_QUOTE_TRAINING",
+			"ALTER TABLE package ADD free_monthly_cq_attempt tinyint(5) DEFAULT '0';",
+			"ALTER TABLE package ADD free_monthly_cq_attempt tinyint(5) DEFAULT '0'; ALTER",
+			"switch_user",
+			"// allow Dee Why hsc 2019 for Weekend Flexi",
+			"locationFilteredSession",
+			"burst",
+			"debug",
+			"$user =",
+			"$user[",
+			"no_session",
+			"foreach($hsc_year_no_sessions_list as $no_session) {",
+			"debug",
+			"hsc_year_no_session",
+			"debug",
+			"hsc_year_no_sessions",
+			"hsc_year_no_session_list",
+			"debug",
+			"SESSION_TYPE_WEEKEND_SUPPORT",
+			"weekend_supp",
+			"SESSION_TYPE_ID_WEEKEND_SUPPORT_SESSION",
+			"weekend_supp",
+			"weekend_supo",
+			"weekend"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"$this->user['id']"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 42.4
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "covid19phunited.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\Work\\MAS\\csc\\codes\\webtemp\\csc.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 157.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
