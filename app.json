@@ -26,6 +26,10 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "android": {
+      "package": "com.covid19phunited.app",
+      "versionCode": 1
     }
   }
 }
