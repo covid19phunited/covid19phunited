@@ -24,10 +24,10 @@ npm run web
 This will open 2 Browser tabs: Metro Bundler and the Web app something like http://localhost:[port_number]
 
 7. View the Web app using Chrome mobile view:
-  1. Right click web page
-  2. Select Inspect element
-  3. Select "Toggle device toolbar" the 2nd icon from upper-left of Devtools
-  4. Select iPhone 5/SE at the top of the web page. It's safer to use this screen size since it's one of the smallest.
+    1. Right click web page
+    2. Select Inspect element
+    3. Select "Toggle device toolbar" the 2nd icon from upper-left of Devtools
+    4. Select iPhone 5/SE at the top of the web page. It's safer to use this screen size since it's one of the smallest.
 8. To start fixing bugs or implementing new features, create a new branch.
 ```
 git checkout -b add-awesome-feature
