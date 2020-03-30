@@ -2,6 +2,16 @@
 Web and mobile app for covid-19 PH https://covid19phunited.web.app/ using [Expo](https://expo.io).
 Expo tutorials can be found here https://docs.expo.io/
 
+# Motivations
+Problems to solve:
+- no tools to help Frontliners and people at home
+- fake news are very rampant
+- some people have no access to Internet
+- some people can't fully understand English so it needs to be translated to Filipino, Bisaya, and other languages
+- no coordination of donations, supplies, and critical info
+- public not fully informed / disconnected
+- existing projects are not open sourced and not accessible offline
+
 # Roadmap and Tasks
 1. Pick tasks here https://github.com/covid19phunited/covid19phunited/projects/1
 2. Add suggestions here https://github.com/covid19phunited/covid19phunited/issues/2
