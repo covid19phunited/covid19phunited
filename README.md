@@ -3,7 +3,8 @@ Web and mobile app for covid-19 PH https://covid19phunited.web.app/ using [Expo]
 Expo tutorials can be found here https://docs.expo.io/
 
 # Roadmap and Tasks
-Pick tasks here https://github.com/covid19phunited/covid19phunited/projects/1
+1. Pick tasks here https://github.com/covid19phunited/covid19phunited/projects/1
+2. Add suggestions here https://github.com/covid19phunited/covid19phunited/issues/2
 
 # Want to contribute?
 1. Install nodejs https://nodejs.org/en/
