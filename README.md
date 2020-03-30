@@ -1,5 +1,5 @@
 # covid19phunited
-Web and mobile app for covid-19 PH https://covid19phunited.web.app/ using [Expo](https://expo.io).
+PWA Web app and mobile app for covid-19 PH https://covid19phunited.web.app/ using [Expo](https://expo.io).
 Expo tutorials can be found here https://docs.expo.io/
 
 # Motivations
