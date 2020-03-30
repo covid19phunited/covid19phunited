@@ -45,7 +45,7 @@ This will open 2 Browser tabs: Metro Bundler and the Web app something like http
     4. Select iPhone 5/SE at the top of the web page. It's safer to use this screen size since it's one of the smallest.
 8. To start fixing bugs or implementing new features, create a new branch.
 ```
-git checkout -b add-awesome-feature
+git checkout -b add-sample-feature
 ```
 9. Update the codes. The Web app should reload automatically.
 10. Once done, commit your codes then push to github.
