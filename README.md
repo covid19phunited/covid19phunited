@@ -1,5 +1,6 @@
 # covid19phunited
-Web and mobile app for covid-19 PH https://covid19phunited.web.app/
+Web and mobile app for covid-19 PH https://covid19phunited.web.app/ using [Expo](https://expo.io).
+Expo tutorials can be found here https://docs.expo.io/
 
 # Want to contribute?
 1. Install nodejs https://nodejs.org/en/
