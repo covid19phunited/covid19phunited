@@ -12,3 +12,11 @@ web-report/
 
 # macOS
 .DS_Store
+
+# firebase
+.firebase/
+.firebaserc
+
+# sublime
+*.sublime-workspace
+*.sublime-project
