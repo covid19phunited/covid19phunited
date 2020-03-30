@@ -21,7 +21,8 @@ npm install
 ```
 npm run web
 ```
-This will open 2 Browser tabs: Metro Bundler and the Web app something like http://localhost:<port>/home
+This will open 2 Browser tabs: Metro Bundler and the Web app something like http://localhost:[port_number]
+
 7. View the Web app using Chrome mobile view:
   1. Right click web page
   2. Select Inspect element
