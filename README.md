@@ -18,10 +18,11 @@ Problems to solve:
 
 # Want to contribute?
 1. Install nodejs https://nodejs.org/en/
-2. Install git https://git-scm.com/
-3. Install Expo CLI
+2. Install yarn https://classic.yarnpkg.com/en/docs/install
+3. Install git https://git-scm.com/
+4. Install Expo CLI
 ```
-npm install -g expo-cli
+yarn global add expo-cli
 ```
 4. Download this project
 ```
@@ -30,11 +31,11 @@ git clone git@github.com:covid19phunited/covid19phunited.git
 5. Install project dependencies
 ```
 cd covid19phunited
-npm install
+yarn install --frozen-lockfile
 ```
 6. Start Web app
 ```
-npm run web
+yarn web
 ```
 This will open 2 Browser tabs: Metro Bundler and the Web app something like http://localhost:[port_number]
 
