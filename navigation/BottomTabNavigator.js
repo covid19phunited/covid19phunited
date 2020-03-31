@@ -28,7 +28,7 @@ export default function BottomTabNavigator({ navigation, route }) {
         component={LinksScreen}
         options={{
           title: 'Resources',
-          tabBarIcon: ({ focused }) => <TabBarIcon focused={focused} name="md-book" />,
+          tabBarIcon: ({ focused }) => <TabBarIcon focused={focused} name="md-bookmark" />,
         }}
       />
     </BottomTab.Navigator>
@@ -42,6 +42,6 @@ function getHeaderTitle(route) {
     case 'Home':
       return 'Covid-19 PH United';
     case 'Links':
-      return 'Links to learn more';
+      return 'Verified Resources';
   }
 }

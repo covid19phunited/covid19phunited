@@ -8,21 +8,25 @@ export default function LinksScreen() {
   return (
     <ScrollView style={styles.container} contentContainerStyle={styles.contentContainer}>
       <OptionButton
-        icon="md-school"
-        label="Read the Expo documentation"
-        onPress={() => WebBrowser.openBrowserAsync('https://docs.expo.io')}
+        icon="md-globe"
+        label="DOH Official Website"
+        onPress={() => WebBrowser.openBrowserAsync('https://www.doh.gov.ph/')}
       />
 
       <OptionButton
-        icon="md-compass"
-        label="Read the React Navigation documentation"
-        onPress={() => WebBrowser.openBrowserAsync('https://reactnavigation.org')}
+        icon="logo-facebook"
+        label="DOH Official FB Page"
+        onPress={() => WebBrowser.openBrowserAsync('https://www.facebook.com/OfficialDOHgov/')}
       />
 
       <OptionButton
-        icon="ios-chatboxes"
-        label="Ask a question on the forums"
-        onPress={() => WebBrowser.openBrowserAsync('https://forums.expo.io')}
+        icon="md-information-circle"
+        label="Covid-19 Infographics"
+        onPress={() => WebBrowser.openBrowserAsync('https://www.doh.gov.ph/2019-nCov/infographics')}
+      />
+      <OptionButton
+        icon="ios-hammer"
+        label="More items to be added soon"
         isLastOption
       />
     </ScrollView>
