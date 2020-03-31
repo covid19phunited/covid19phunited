@@ -3,6 +3,7 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import TabBarIcon from '../components/TabBarIcon';
 import HomeScreen from '../screens/HomeScreen';
 import LinksScreen from '../screens/LinksScreen';
+import FeedbackScreen from '../screens/FeedbackScreen';
 
 const BottomTab = createBottomTabNavigator();
 const INITIAL_ROUTE_NAME = 'Home';
@@ -31,6 +32,14 @@ export default function BottomTabNavigator({ navigation, route }) {
           tabBarIcon: ({ focused }) => <TabBarIcon focused={focused} name="md-bookmark" />,
         }}
       />
+      <BottomTab.Screen
+        name="Feedback"
+        component={FeedbackScreen}
+        options={{
+          title: 'Feedback',
+          tabBarIcon: ({ focused }) => <TabBarIcon focused={focused} name="md-contacts" />,
+        }}
+      />
     </BottomTab.Navigator>
   );
 }
@@ -43,5 +52,7 @@ function getHeaderTitle(route) {
       return 'Covid-19 PH United';
     case 'Links':
       return 'Verified Resources';
+    case 'Feedback':
+      return 'Feedback and Suggestions';
   }
 }
