@@ -20,3 +20,6 @@ web-report/
 # sublime
 *.sublime-workspace
 *.sublime-project
+
+# git
+package-lock.json

@@ -29,7 +29,7 @@ export default function BottomTabNavigator({ navigation, route }) {
         component={LinksScreen}
         options={{
           title: 'Resources',
-          tabBarIcon: ({ focused }) => <TabBarIcon focused={focused} name="md-book" />,
+          tabBarIcon: ({ focused }) => <TabBarIcon focused={focused} name="md-bookmark" />,
         }}
       />
       <BottomTab.Screen
@@ -51,8 +51,12 @@ function getHeaderTitle(route) {
     case 'Home':
       return 'How to get started';
     case 'Links':
+<<<<<<< HEAD
       return 'Links to learn more';
     case 'Feedback':
       return 'Feedback and Suggestions'
+=======
+      return 'Verified Resources';
+>>>>>>> master
   }
 }
