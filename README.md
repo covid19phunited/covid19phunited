@@ -17,7 +17,7 @@ Problems to solve:
 2. Add suggestions here https://github.com/covid19phunited/covid19phunited/issues/2
 
 # Want to contribute?
-1. Install nodejs https://nodejs.org/en/
+1. Install nodejs https://nodejs.org/en/ (select LTS) No need to change the default settings during the installation
 2. Install yarn https://classic.yarnpkg.com/en/docs/install
 3. Install git https://git-scm.com/
 4. Install Expo CLI
