@@ -7,8 +7,13 @@ import { RectButton, ScrollView } from 'react-native-gesture-handler';
 export default function LinksScreen() {
   return (
     <ScrollView style={styles.container} contentContainerStyle={styles.contentContainer}>
-      <OptionButton
+    <OptionButton
         icon="md-globe"
+        label="Laging Handa Powered by PCOO"
+        onPress={() => WebBrowser.openBrowserAsync('https://www.covid19.gov.ph/')}
+      />
+      <OptionButton
+        icon="md-flask"
         label="DOH Official Website"
         onPress={() => WebBrowser.openBrowserAsync('https://www.doh.gov.ph/')}
       />
