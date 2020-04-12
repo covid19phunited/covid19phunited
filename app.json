@@ -3,7 +3,6 @@
     "name": "Covid-19 PH United",
     "slug": "covid19phunited",
     "privacy": "public",
-    "sdkVersion": "36.0.0",
     "platforms": [
       "ios",
       "android",
