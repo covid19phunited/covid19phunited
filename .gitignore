@@ -23,3 +23,6 @@ web-report/
 
 # git
 package-lock.json
+
+# yarn
+yarn-error.log
