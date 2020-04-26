@@ -4,20 +4,19 @@ import { Ionicons } from '@expo/vector-icons';
 import * as WebBrowser from 'expo-web-browser';
 import { RectButton, ScrollView } from 'react-native-gesture-handler';
 
-export default function LGULinksScreen({ navigation }) {
+export default function CityContactScreen() {
   return (
     <ScrollView style={styles.container} contentContainerStyle={styles.contentContainer}>
-      <OptionButton
-        label="Davao City"
-        onPress={() => navigation.navigate('City')}
+    <OptionButton
+        icon="logo-facebook"
+        label="Official FB Page"
+        onPress={() => WebBrowser.openBrowserAsync('https://www.covid19.gov.ph/')}
       />
       <OptionButton
-        label="Mati City"
+        icon="md-flask"
+        label="Official Contact Numbers"
+        onPress={() => WebBrowser.openBrowserAsync('https://www.doh.gov.ph/')}
       />
-      <OptionButton
-        label="Cagayan de Oro City"
-      />
-      
     </ScrollView>
   );
 }
